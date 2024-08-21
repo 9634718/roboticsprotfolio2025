@@ -10,4 +10,4 @@ student at Skyline High School. Projected graduation date in 2027. Taking course
 
 ![title](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
-<#>And then what do I do? </#>
+<h1>And then what do I do? </h1>
